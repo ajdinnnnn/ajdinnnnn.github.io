@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue; /* advancirane boje */
+    color: black; /* za tekst  */
+}
+h1 {
+    color: darkblue; /* naslov */
+}
+h2 {
+    color: green; /* podnaslov */
+}
+a {
+    color: red; /* linkovi */
+}
+table, th, td {
+    border: 1px solid black; /* table edge za estetiku */
+}
